@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZiZo-Pro7
-- 👀 I’m interested in prommming.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning how to create a database using SQL.
-- 💞️ I’m looking to collaborate on some project.
+- 👥 I’m looking to collaborate on some project.
 - ⚡ Fun fact: i don't have.
 
 <!---
