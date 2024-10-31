@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ZiZo-Pro7
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning how to create a database using SQL.
-- 👥 I’m looking to collaborate on some project.
-- ⚡ Fun fact: i don't have.
+Hi,
 
-<!---
-ZiZo-Pro7/ZiZo-Pro7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a IT engineer student, i'am interested in developing softwares.
+I learnt how to use git and github, I also learnt some programming langages, for instance :
+- C Langage
+- Python
+
+I'am facinated by the IT domain.
